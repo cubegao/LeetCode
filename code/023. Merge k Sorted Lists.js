@@ -1,4 +1,10 @@
 /**
+ Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
+
+
+ */
+
+/**
  * Definition for singly-linked list.
  * function ListNode(val) {
  *     this.val = val;
@@ -9,7 +15,7 @@
  * @param {ListNode[]} lists
  * @return {ListNode}
  */
-const { buildList, ListNode } = require('../../Desktop/LeetCode/problem-utils');
+const { buildList, ListNode } = require('../../LeetCode/problem-utils');
 
 var mergeKLists = function(lists) {
 

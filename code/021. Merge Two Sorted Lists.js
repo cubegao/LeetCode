@@ -1,4 +1,13 @@
 /**
+ Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
+ Example:
+
+ Input: 1->2->4, 1->3->4
+ Output: 1->1->2->3->4->4
+ */
+
+/**
  * Definition for singly-linked list.
  * function ListNode(val) {
  *     this.val = val;
@@ -11,7 +20,7 @@
  * @return {ListNode}
  */
 
-const { buildList, ListNode } = require('../../Desktop/LeetCode/problem-utils');
+const { buildList, ListNode } = require('../../LeetCode/problem-utils');
 
 var mergeTwoLists = function(l1, l2) {
 
