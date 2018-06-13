@@ -5,36 +5,65 @@
  */
 var findSubstring = function(s, words) {
 
-    var dic = [];
+    var wordsDic = {};
+    var res = [];
+    if (words.length === 0) return res;
+    if (s.length === 0) return res;
+    var wordLength = words[0].length;
 
-    for (var i = 0; i < words.length; i++) {
-        var word = words[i];
-        for (var l = 0, j = 0; l < s.length; l++) {
-            while (s[l] === word[j]) {
-                if (j === word.length - 1){
-                    dic[(l-j).toString()] = word.length.toString();
-                    j = 0;
-                    break;
+    for (var j = 0; j < words.length; j++) {
+        var temp = words[j];
+        if (temp.length !== wordLength) return res;
+        if (!wordsDic[temp]){
+            wordsDic[temp] = 1;
+        }else {
+            wordsDic[temp] = ++wordsDic[temp];
+        }
+    }
+
+
+    for (var i = 0; i < wordLength; i++) {
+
+        var saveDic = {};
+
+        for (var l = i, r = l; s.length-r>=wordLength; ) {
+
+            var temp = s.slice(r,r+wordLength);
+            if (words.indexOf(temp) !== -1) {
+                if (!saveDic[temp]) saveDic[temp] = 0;
+
+                if (saveDic[temp] < wordsDic[temp]) {
+                    saveDic[temp] = ++saveDic[temp];
+                }else {
+                    //开始退出多的word
+                    while (s.slice(l,l+wordLength) !== temp) {
+                        var quitWord = s.slice(l,l+wordLength);
+                        saveDic[quitWord] = --saveDic[quitWord];
+                        l += wordLength;
+                    }
+                    l += wordLength;
                 }
-                l++;j++;
+                r += wordLength;
+            }else {
+                saveDic = {};
+                r += wordLength;
+                l = r;
+            }
+
+            // console.log(temp+' l='+l+' r='+r);
+
+            if (r-l === words.length*wordLength) {
+                res.push(l);
+                var quitWord = s.slice(l,l+wordLength);
+                saveDic[quitWord] = --saveDic[quitWord];
+                l += wordLength;
             }
         }
     }
-    console.log(dic);
 
-
-    var res = [];
-    var list = Object.keys(dic);
-    for (var key in dic) {
-        var value = dic[key];
-        var val = parseInt(key)+parseInt(value);
-        if (list.indexOf(val.toString()) !== -1) {
-            res.push(parseInt(key));
-        }
-    }
-
-    // return res;
-    console.log(dic+'\n'+res+'\n'+list);
+    // console.log(res);
+    return res;
 };
 
-findSubstring('wordgoodstudentgoodword',['word','student']);
+
+findSubstring('aaaaaaaa',['aa','aa','aa']);
