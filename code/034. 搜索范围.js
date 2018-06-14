@@ -21,7 +21,6 @@ var searchRange = function(nums, target) {
     }else {
         return [-1,-1];
     }
-
 };
 
 var s = searchRange([5,7,7,8,8,10],8);
