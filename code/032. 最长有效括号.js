@@ -7,8 +7,8 @@ var longestValidParentheses = function(s) {
     var res = 0;
     var leftp = '(';
     var temp = [];
-    var last = -1;
-    var top = [];
+    var last = -1; //最后一个')'的位置
+    var top = []; //存'C'的位置
 
     if (s.length <= 1) return res;
 
