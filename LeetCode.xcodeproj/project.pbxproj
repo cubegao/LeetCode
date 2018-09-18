@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
+		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "053MaximumSubarray .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		A418FF042150EC76009C099D /* Code */ = {
 			isa = PBXGroup;
 			children = (
+				A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A418FF092150EC76009C099D /* main.swift in Sources */,
+				A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */,
 				A418FF082150EC76009C099D /* tools.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
