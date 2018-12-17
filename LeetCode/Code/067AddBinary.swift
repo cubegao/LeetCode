@@ -25,7 +25,6 @@ import Foundation
 class AddBinarySolution {
     func addBinary(_ a: String, _ b: String) -> String {
         
-        //保存结果
         var sum = [String]()
         var flag = 0
         var i = a.count - 1, j = b.count - 1
