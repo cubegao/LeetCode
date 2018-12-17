@@ -12,6 +12,7 @@
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
 		A46F977B21C67DA70026E1A5 /* 058LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */; };
 		A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977C21C68E230026E1A5 /* 066PlusOne.swift */; };
+		A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "053MaximumSubarray .swift"; sourceTree = "<group>"; };
 		A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 058LengthofLastWord.swift; sourceTree = "<group>"; };
 		A46F977C21C68E230026E1A5 /* 066PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 066PlusOne.swift; sourceTree = "<group>"; };
+		A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 067AddBinary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */,
 				A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */,
 				A46F977C21C68E230026E1A5 /* 066PlusOne.swift */,
+				A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				A418FF092150EC76009C099D /* main.swift in Sources */,
 				A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */,
 				A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */,
+				A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */,
 				A418FF082150EC76009C099D /* tools.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
