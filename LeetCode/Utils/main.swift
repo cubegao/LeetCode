@@ -8,6 +8,5 @@
 
 import Foundation
 
-
-let rs = DeleteDuplicatesSolution().deleteDuplicates(createListNode([1,2,3,4,4,4,5]))
-print(printListNode(rs))
+var value = [4,5,6,0,0,0]
+MergeSolution().merge(&value, 3, [1,2,3], 3)
