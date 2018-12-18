@@ -83,7 +83,6 @@ func createTreeNode(_ tree:[Int?]) -> TreeNode?{
             newNode = TreeNode(temp!)
         }else{
             newNode = TreeNode(Int.max)
-            
         }
         
         //sth wrong

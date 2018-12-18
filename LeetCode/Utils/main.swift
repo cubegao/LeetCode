@@ -9,4 +9,4 @@
 import Foundation
 
 var value = [4,5,6,0,0,0]
-MergeSolution().merge(&value, 3, [1,2,3], 3)
+LevelOrderBottomSolution().levelOrderBottom(createTreeNode([3,9,20,nil,nil,15,7]))
