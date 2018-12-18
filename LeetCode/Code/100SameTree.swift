@@ -49,7 +49,5 @@ class IsSameTreeSolution {
         }else {
             return false
         }
-        
-        return true
     }
 }
