@@ -13,6 +13,7 @@
 		A46F977B21C67DA70026E1A5 /* 058LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */; };
 		A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977C21C68E230026E1A5 /* 066PlusOne.swift */; };
 		A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */; };
+		A4D5D67721C8C9BE00B7B7D1 /* 069Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 058LengthofLastWord.swift; sourceTree = "<group>"; };
 		A46F977C21C68E230026E1A5 /* 066PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 066PlusOne.swift; sourceTree = "<group>"; };
 		A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 067AddBinary.swift; sourceTree = "<group>"; };
+		A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "069Sqrt(x).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */,
 				A46F977C21C68E230026E1A5 /* 066PlusOne.swift */,
 				A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */,
+				A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */,
 				A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */,
 				A418FF082150EC76009C099D /* tools.swift in Sources */,
+				A4D5D67721C8C9BE00B7B7D1 /* 069Sqrt(x).swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
