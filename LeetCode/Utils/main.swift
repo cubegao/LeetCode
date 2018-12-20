@@ -9,4 +9,5 @@
 import Foundation
 
 var value = [4,5,6,0,0,0]
-LevelOrderBottomSolution().levelOrderBottom(createTreeNode([3,9,20,nil,nil,15,7]))
+let rs = IsBalancedSolution().isBalanced(createTreeNode([1,2,2,3,3,nil,nil,4,4]))
+print(rs)

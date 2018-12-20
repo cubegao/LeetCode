@@ -109,6 +109,15 @@ func createTreeNode(_ tree:[Int?]) -> TreeNode?{
     return head;
 }
 
+//
+func treeIsEmpty(_ treeNode:TreeNode) -> Bool {
+    if treeNode.val == Int.max{
+        return true
+    }
+    
+    return false
+}
+
 //print 🌲
 func printTree(_ treeNode:TreeNode) -> String {
     var resStr = ""
