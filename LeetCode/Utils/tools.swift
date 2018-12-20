@@ -110,7 +110,7 @@ func createTreeNode(_ tree:[Int?]) -> TreeNode?{
 }
 
 //
-func treeIsEmpty(_ treeNode:TreeNode) -> Bool {
+func testTreeIsEmpty(_ treeNode:TreeNode) -> Bool {
     if treeNode.val == Int.max{
         return true
     }

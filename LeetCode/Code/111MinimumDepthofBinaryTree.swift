@@ -1,7 +1,5 @@
-
-
 //
-//  110BalancedBinaryTree.swift
+//  111MinimumDepthofBinaryTree.swift
 //  LeetCode
 //
 //  Created by Gaowz on 2018/12/20.
@@ -23,21 +21,20 @@ import Foundation
  *     }
  * }
  */
-class IsBalancedSolution {
-    func isBalanced(_ root: TreeNode?) -> Bool {
-        if root == nil {
-            return true
-        }
-        if (abs(depthTree(root?.left)-depthTree(root?.right))>1) {
-            return false
-        }
-        return isBalanced(root?.left)&&isBalanced(root?.right)
-    }
-    
-    func depthTree(_ root: TreeNode?) -> Int {
+class MinDepthSolution {
+    func minDepth(_ root: TreeNode?) -> Int {
         if root == nil {
             return 0
         }
-        return 1 + max(depthTree(root?.left), depthTree(root?.right))
+        
+        if root?.left == nil {
+            return minDepth(root?.right) + 1
+        }
+        
+        if root?.right == nil {
+            return minDepth(root?.left) + 1
+        }
+        
+        return 1 + min(minDepth(root?.left), minDepth(root?.right))
     }
 }
