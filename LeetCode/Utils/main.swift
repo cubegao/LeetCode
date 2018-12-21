@@ -8,5 +8,5 @@
 
 import Foundation
 
-let rs = GenerateSolution().generate(5)
+let rs = GetRowSolution().getRow(3)
 print(rs)
