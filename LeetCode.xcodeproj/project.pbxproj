@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A407E77D21CCBF9A00F2B3E5 /* 112PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E77C21CCBF9A00F2B3E5 /* 112PathSum.swift */; };
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
@@ -39,6 +40,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A407E77C21CCBF9A00F2B3E5 /* 112PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 112PathSum.swift; sourceTree = "<group>"; };
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				A46F978821CA68A70026E1A5 /* 108ConvertSortedArraytoBinarySearchTree.swift */,
 				A46F978A21CBB2290026E1A5 /* 110BalancedBinaryTree.swift */,
 				A46F978C21CBD84C0026E1A5 /* 111MinimumDepthofBinaryTree.swift */,
+				A407E77C21CCBF9A00F2B3E5 /* 112PathSum.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				A418FF092150EC76009C099D /* main.swift in Sources */,
 				A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */,
 				A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */,
+				A407E77D21CCBF9A00F2B3E5 /* 112PathSum.swift in Sources */,
 				A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */,
 				A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */,
 				A46F978B21CBB2290026E1A5 /* 110BalancedBinaryTree.swift in Sources */,
