@@ -8,5 +8,5 @@
 
 import Foundation
 
-let rs = GetRowSolution().getRow(3)
+let rs = MaxProfitSolution().maxProfit([7,1,5,3,6,4])
 print(rs)
