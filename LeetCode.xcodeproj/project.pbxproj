@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A407E77D21CCBF9A00F2B3E5 /* 112PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E77C21CCBF9A00F2B3E5 /* 112PathSum.swift */; };
+		A407E77F21CCCC1700F2B3E5 /* 118Pascal'sTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E77E21CCCC1700F2B3E5 /* 118Pascal'sTriangle.swift */; };
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		A407E77C21CCBF9A00F2B3E5 /* 112PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 112PathSum.swift; sourceTree = "<group>"; };
+		A407E77E21CCCC1700F2B3E5 /* 118Pascal'sTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118Pascal'sTriangle.swift"; sourceTree = "<group>"; };
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				A46F978A21CBB2290026E1A5 /* 110BalancedBinaryTree.swift */,
 				A46F978C21CBD84C0026E1A5 /* 111MinimumDepthofBinaryTree.swift */,
 				A407E77C21CCBF9A00F2B3E5 /* 112PathSum.swift */,
+				A407E77E21CCCC1700F2B3E5 /* 118Pascal'sTriangle.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 				A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */,
 				A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */,
 				A46F978B21CBB2290026E1A5 /* 110BalancedBinaryTree.swift in Sources */,
+				A407E77F21CCCC1700F2B3E5 /* 118Pascal'sTriangle.swift in Sources */,
 				A418FF082150EC76009C099D /* tools.swift in Sources */,
 				A46F978721C920B20026E1A5 /* 107BinaryTreeLevelOrderTraversalII.swift in Sources */,
 				A46F978D21CBD84C0026E1A5 /* 111MinimumDepthofBinaryTree.swift in Sources */,
