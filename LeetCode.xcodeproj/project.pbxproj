@@ -13,6 +13,7 @@
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
+		A468CE5121CE2B5A0056D88D /* 136SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = A468CE5021CE2B5A0056D88D /* 136SingleNumber.swift */; };
 		A46F977B21C67DA70026E1A5 /* 058LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */; };
 		A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977C21C68E230026E1A5 /* 066PlusOne.swift */; };
 		A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */; };
@@ -52,6 +53,7 @@
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "053MaximumSubarray .swift"; sourceTree = "<group>"; };
+		A468CE5021CE2B5A0056D88D /* 136SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 136SingleNumber.swift; sourceTree = "<group>"; };
 		A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 058LengthofLastWord.swift; sourceTree = "<group>"; };
 		A46F977C21C68E230026E1A5 /* 066PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 066PlusOne.swift; sourceTree = "<group>"; };
 		A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 067AddBinary.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				A46F978E21CD33DD0026E1A5 /* 121BestTimetoBuyandSellStock.swift */,
 				A46F979021CD47C20026E1A5 /* 122BestTimetoBuyandSellStock2.swift */,
 				A46F979221CE097E0026E1A5 /* 125ValidPalindrome.swift */,
+				A468CE5021CE2B5A0056D88D /* 136SingleNumber.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 				A46F979321CE097E0026E1A5 /* 125ValidPalindrome.swift in Sources */,
 				A418FF082150EC76009C099D /* tools.swift in Sources */,
 				A46F979121CD47C20026E1A5 /* 122BestTimetoBuyandSellStock2.swift in Sources */,
+				A468CE5121CE2B5A0056D88D /* 136SingleNumber.swift in Sources */,
 				A46F978721C920B20026E1A5 /* 107BinaryTreeLevelOrderTraversalII.swift in Sources */,
 				A46F978D21CBD84C0026E1A5 /* 111MinimumDepthofBinaryTree.swift in Sources */,
 				A46F978921CA68A70026E1A5 /* 108ConvertSortedArraytoBinarySearchTree.swift in Sources */,

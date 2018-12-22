@@ -8,5 +8,5 @@
 
 import Foundation
 
-let rs = IsPalindromeSolution().isPalindrome("abacacaca")
+let rs = SingleNumberSolution().singleNumber([9,1,4,5,6,6,5,4,1])
 print(rs)
