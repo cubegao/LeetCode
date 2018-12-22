@@ -8,5 +8,5 @@
 
 import Foundation
 
-let rs = MaxProfit2Solution().maxProfit([7,6,4,3,1])
+let rs = IsPalindromeSolution().isPalindrome("abacacaca")
 print(rs)
