@@ -8,5 +8,22 @@
 
 import Foundation
 
-let rs = SingleNumberSolution().singleNumber([9,1,4,5,6,6,5,4,1])
-print(rs)
+
+
+
+var res = 0
+var minStack = MinStack()
+minStack.push(-2)
+minStack.push(0)
+minStack.push(-3)
+minStack.push(-2)
+minStack.push(0)
+minStack.push(-3)
+minStack.push(-2)
+minStack.push(0)
+minStack.push(-3)
+res = minStack.getMin()
+minStack.pop()
+res = minStack.top()
+res = minStack.getMin()
+print(res)
