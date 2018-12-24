@@ -11,5 +11,5 @@ import Foundation
 
 
 
-var res = ConvertToTitleSolution().convertToTitle(26*26+1)
+var res = MajorityElementSolution().majorityElement([3,2,3])
 print(res)

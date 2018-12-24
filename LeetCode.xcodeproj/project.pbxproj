@@ -12,6 +12,7 @@
 		A407E78121CCDDC300F2B3E5 /* 119Pascal'sTriangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E78021CCDDC300F2B3E5 /* 119Pascal'sTriangle2.swift */; };
 		A407E78321D07B2F00F2B3E5 /* 167TwoSum2Inputarrayissorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E78221D07B2F00F2B3E5 /* 167TwoSum2Inputarrayissorted.swift */; };
 		A407E78521D082D700F2B3E5 /* 168ExcelSheetColumnTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E78421D082D700F2B3E5 /* 168ExcelSheetColumnTitle.swift */; };
+		A407E78721D0ABF400F2B3E5 /* 169MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E78621D0ABF400F2B3E5 /* 169MajorityElement.swift */; };
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
@@ -54,6 +55,7 @@
 		A407E78021CCDDC300F2B3E5 /* 119Pascal'sTriangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119Pascal'sTriangle2.swift"; sourceTree = "<group>"; };
 		A407E78221D07B2F00F2B3E5 /* 167TwoSum2Inputarrayissorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 167TwoSum2Inputarrayissorted.swift; sourceTree = "<group>"; };
 		A407E78421D082D700F2B3E5 /* 168ExcelSheetColumnTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 168ExcelSheetColumnTitle.swift; sourceTree = "<group>"; };
+		A407E78621D0ABF400F2B3E5 /* 169MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 169MajorityElement.swift; sourceTree = "<group>"; };
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				A4827DD421CF5EE900BF627D /* 155MinStack.swift */,
 				A407E78221D07B2F00F2B3E5 /* 167TwoSum2Inputarrayissorted.swift */,
 				A407E78421D082D700F2B3E5 /* 168ExcelSheetColumnTitle.swift */,
+				A407E78621D0ABF400F2B3E5 /* 169MajorityElement.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				A407E77F21CCCC1700F2B3E5 /* 118Pascal'sTriangle.swift in Sources */,
 				A46F979321CE097E0026E1A5 /* 125ValidPalindrome.swift in Sources */,
 				A418FF082150EC76009C099D /* tools.swift in Sources */,
+				A407E78721D0ABF400F2B3E5 /* 169MajorityElement.swift in Sources */,
 				A46F979121CD47C20026E1A5 /* 122BestTimetoBuyandSellStock2.swift in Sources */,
 				A468CE5121CE2B5A0056D88D /* 136SingleNumber.swift in Sources */,
 				A407E78321D07B2F00F2B3E5 /* 167TwoSum2Inputarrayissorted.swift in Sources */,
