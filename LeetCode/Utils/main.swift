@@ -11,5 +11,5 @@ import Foundation
 
 
 
-var res = MajorityElementSolution().majorityElement([3,2,3])
-print(res)
+var res = TitleToNumberSolution().titleToNumber("ZY")
+//print(res)
