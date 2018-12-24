@@ -11,5 +11,5 @@ import Foundation
 
 
 
-var res = TwoSumSolution().twoSum([1,4,11,14,15], 15)
+var res = ConvertToTitleSolution().convertToTitle(26*26+1)
 print(res)
