@@ -11,19 +11,5 @@ import Foundation
 
 
 
-var res = 0
-var minStack = MinStack()
-minStack.push(-2)
-minStack.push(0)
-minStack.push(-3)
-minStack.push(-2)
-minStack.push(0)
-minStack.push(-3)
-minStack.push(-2)
-minStack.push(0)
-minStack.push(-3)
-res = minStack.getMin()
-minStack.pop()
-res = minStack.top()
-res = minStack.getMin()
+var res = TwoSumSolution().twoSum([1,4,11,14,15], 15)
 print(res)
