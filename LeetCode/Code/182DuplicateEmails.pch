@@ -1,0 +1,36 @@
+//
+//  182DuplicateEmails.pch
+//  LeetCode
+//
+//  Created by Gaowz on 2018/12/25.
+//  Copyright © 2018 fadaixiaohai. All rights reserved.
+//
+
+#ifndef _82DuplicateEmails_pch
+#define _82DuplicateEmails_pch
+
+SQL架构
+Write a SQL query to find all duplicate emails in a table named Person.
+
++----+---------+
+| Id | Email   |
++----+---------+
+| 1  | a@b.com |
+| 2  | c@d.com |
+| 3  | a@b.com |
++----+---------+
+For example, your query should return the following for the above table:
+
++---------+
+| Email   |
++---------+
+| a@b.com |
++---------+
+
+# Write your MySQL query statement below
+
+select distinct p1.Email from Person p1
+inner join Person p2
+on p1.Id != p2.Id and p1.Email = p2.Email
+
+#endif /* _82DuplicateEmails_pch */

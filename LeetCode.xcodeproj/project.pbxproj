@@ -68,6 +68,7 @@
 		A46CCF2521D260AD00D88D8D /* 175CombineTwoTables.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 175CombineTwoTables.pch; sourceTree = "<group>"; };
 		A46CCF2621D2614B00D88D8D /* 176SecondHighestSalary.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 176SecondHighestSalary.pch; sourceTree = "<group>"; };
 		A46CCF2721D261C100D88D8D /* 181EmployeesEarningMoreThanTheirManagers.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 181EmployeesEarningMoreThanTheirManagers.pch; sourceTree = "<group>"; };
+		A46CCF2821D2646300D88D8D /* 182DuplicateEmails.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 182DuplicateEmails.pch; sourceTree = "<group>"; };
 		A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 058LengthofLastWord.swift; sourceTree = "<group>"; };
 		A46F977C21C68E230026E1A5 /* 066PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 066PlusOne.swift; sourceTree = "<group>"; };
 		A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 067AddBinary.swift; sourceTree = "<group>"; };
@@ -158,6 +159,7 @@
 				A46CCF2521D260AD00D88D8D /* 175CombineTwoTables.pch */,
 				A46CCF2621D2614B00D88D8D /* 176SecondHighestSalary.pch */,
 				A46CCF2721D261C100D88D8D /* 181EmployeesEarningMoreThanTheirManagers.pch */,
+				A46CCF2821D2646300D88D8D /* 182DuplicateEmails.pch */,
 			);
 			path = Code;
 			sourceTree = "<group>";
