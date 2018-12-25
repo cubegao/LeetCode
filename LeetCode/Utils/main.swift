@@ -11,5 +11,5 @@ import Foundation
 
 
 
-var res = TitleToNumberSolution().titleToNumber("ZY")
-//print(res)
+var res = TrailingZeroesSolution().trailingZeroes(200)
+print(res)
