@@ -10,5 +10,5 @@ import Foundation
 
 
 
-var nums = [1,2,3,4,5,6]
-var res = RotateSolution().rotate(&nums, 4)
+var res = RobSolution().rob([1,2,3,1])
+print(res)
