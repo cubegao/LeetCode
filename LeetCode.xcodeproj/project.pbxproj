@@ -64,6 +64,7 @@
 		A407E78C21D32CBF00F2B3E5 /* 183CustomersWhoNeverOrder.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 183CustomersWhoNeverOrder.pch; sourceTree = "<group>"; };
 		A407E78D21D337DA00F2B3E5 /* 189RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 189RotateArray.swift; sourceTree = "<group>"; };
 		A407E78F21D36D0000F2B3E5 /* 196DeleteDuplicateEmails.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 196DeleteDuplicateEmails.pch; sourceTree = "<group>"; };
+		A407E79021D370B200F2B3E5 /* 197RisingTemperature.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 197RisingTemperature.pch; sourceTree = "<group>"; };
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -167,6 +168,7 @@
 				A407E78C21D32CBF00F2B3E5 /* 183CustomersWhoNeverOrder.pch */,
 				A407E78D21D337DA00F2B3E5 /* 189RotateArray.swift */,
 				A407E78F21D36D0000F2B3E5 /* 196DeleteDuplicateEmails.pch */,
+				A407E79021D370B200F2B3E5 /* 197RisingTemperature.pch */,
 			);
 			path = Code;
 			sourceTree = "<group>";
