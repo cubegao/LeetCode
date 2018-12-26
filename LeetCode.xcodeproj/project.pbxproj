@@ -60,6 +60,7 @@
 		A407E78621D0ABF400F2B3E5 /* 169MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 169MajorityElement.swift; sourceTree = "<group>"; };
 		A407E78821D0B19E00F2B3E5 /* 171ExcelSheetColumnNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 171ExcelSheetColumnNumber.swift; sourceTree = "<group>"; };
 		A407E78A21D223B900F2B3E5 /* 172FactorialTrailingZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 172FactorialTrailingZeroes.swift; sourceTree = "<group>"; };
+		A407E78C21D32CBF00F2B3E5 /* 183CustomersWhoNeverOrder.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 183CustomersWhoNeverOrder.pch; sourceTree = "<group>"; };
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -160,6 +161,7 @@
 				A46CCF2621D2614B00D88D8D /* 176SecondHighestSalary.pch */,
 				A46CCF2721D261C100D88D8D /* 181EmployeesEarningMoreThanTheirManagers.pch */,
 				A46CCF2821D2646300D88D8D /* 182DuplicateEmails.pch */,
+				A407E78C21D32CBF00F2B3E5 /* 183CustomersWhoNeverOrder.pch */,
 			);
 			path = Code;
 			sourceTree = "<group>";
