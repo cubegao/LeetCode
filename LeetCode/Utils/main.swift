@@ -10,6 +10,5 @@ import Foundation
 
 
 
-
-var res = TrailingZeroesSolution().trailingZeroes(200)
-print(res)
+var nums = [1,2,3,4,5,6]
+var res = RotateSolution().rotate(&nums, 4)
