@@ -18,6 +18,7 @@
 		A407E78E21D337DA00F2B3E5 /* 189RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E78D21D337DA00F2B3E5 /* 189RotateArray.swift */; };
 		A407E79221D372BD00F2B3E5 /* 198HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E79121D372BD00F2B3E5 /* 198HouseRobber.swift */; };
 		A407E79421D47AEB00F2B3E5 /* 202HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E79321D47AEB00F2B3E5 /* 202HappyNumber.swift */; };
+		A407E79621D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E79521D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift */; };
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
@@ -69,6 +70,7 @@
 		A407E79021D370B200F2B3E5 /* 197RisingTemperature.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 197RisingTemperature.pch; sourceTree = "<group>"; };
 		A407E79121D372BD00F2B3E5 /* 198HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 198HouseRobber.swift; sourceTree = "<group>"; };
 		A407E79321D47AEB00F2B3E5 /* 202HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 202HappyNumber.swift; sourceTree = "<group>"; };
+		A407E79521D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 203RemoveLinkedListElements.swift; sourceTree = "<group>"; };
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				A407E79021D370B200F2B3E5 /* 197RisingTemperature.pch */,
 				A407E79121D372BD00F2B3E5 /* 198HouseRobber.swift */,
 				A407E79321D47AEB00F2B3E5 /* 202HappyNumber.swift */,
+				A407E79521D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */,
 				A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */,
 				A407E77D21CCBF9A00F2B3E5 /* 112PathSum.swift in Sources */,
+				A407E79621D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift in Sources */,
 				A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */,
 				A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */,
 				A46F978B21CBB2290026E1A5 /* 110BalancedBinaryTree.swift in Sources */,
