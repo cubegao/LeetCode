@@ -10,5 +10,5 @@ import Foundation
 
 
 
-var res = IsHappySolution().isHappy(19)
+var res = CountPrimesSolution().countPrimes(10)
 print(res)
