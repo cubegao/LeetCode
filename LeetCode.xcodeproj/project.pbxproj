@@ -20,6 +20,7 @@
 		A407E79421D47AEB00F2B3E5 /* 202HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E79321D47AEB00F2B3E5 /* 202HappyNumber.swift */; };
 		A407E79621D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E79521D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift */; };
 		A407E79821D4B61600F2B3E5 /* 204CountPrimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E79721D4B61600F2B3E5 /* 204CountPrimes.swift */; };
+		A407E79A21D4C47900F2B3E5 /* 205IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A407E79921D4C47900F2B3E5 /* 205IsomorphicStrings.swift */; };
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
@@ -73,6 +74,7 @@
 		A407E79321D47AEB00F2B3E5 /* 202HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 202HappyNumber.swift; sourceTree = "<group>"; };
 		A407E79521D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 203RemoveLinkedListElements.swift; sourceTree = "<group>"; };
 		A407E79721D4B61600F2B3E5 /* 204CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 204CountPrimes.swift; sourceTree = "<group>"; };
+		A407E79921D4C47900F2B3E5 /* 205IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 205IsomorphicStrings.swift; sourceTree = "<group>"; };
 		A418FEE92150E3EC009C099D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -181,6 +183,7 @@
 				A407E79321D47AEB00F2B3E5 /* 202HappyNumber.swift */,
 				A407E79521D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift */,
 				A407E79721D4B61600F2B3E5 /* 204CountPrimes.swift */,
+				A407E79921D4C47900F2B3E5 /* 205IsomorphicStrings.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				A407E78121CCDDC300F2B3E5 /* 119Pascal'sTriangle2.swift in Sources */,
 				A407E78E21D337DA00F2B3E5 /* 189RotateArray.swift in Sources */,
 				A407E78521D082D700F2B3E5 /* 168ExcelSheetColumnTitle.swift in Sources */,
+				A407E79A21D4C47900F2B3E5 /* 205IsomorphicStrings.swift in Sources */,
 				A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */,
 				A4D5D67F21C8EC9D00B7B7D1 /* 088MergeSortedArray.swift in Sources */,
 				A4D5D67721C8C9BE00B7B7D1 /* 069Sqrt(x).swift in Sources */,

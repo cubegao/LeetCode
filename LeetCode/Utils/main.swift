@@ -10,5 +10,5 @@ import Foundation
 
 
 
-var res = CountPrimesSolution().countPrimes(10)
+var res = IsIsomorphicSolution().isIsomorphic("abca", "bcac")
 print(res)
