@@ -10,5 +10,5 @@ import Foundation
 
 
 
-var res = RobSolution().rob([1,2,3,1])
+var res = IsHappySolution().isHappy(19)
 print(res)
