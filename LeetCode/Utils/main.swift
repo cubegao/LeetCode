@@ -10,5 +10,5 @@ import Foundation
 
 
 
-var res = IsIsomorphicSolution().isIsomorphic("abca", "bcac")
+var res = containsNearbyDuplicateSolution().containsNearbyDuplicate([1,2,3,4,1], 4)
 print(res)
