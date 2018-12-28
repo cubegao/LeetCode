@@ -17,7 +17,8 @@ class containsNearbyDuplicateSolution {
             if i > k {
                 set.remove(nums[i-k-1])
             }
-            
+            print(set)
+            //1,2,3,4,1
             if !set.insert(nums[i]).inserted {
                 return true
             }
