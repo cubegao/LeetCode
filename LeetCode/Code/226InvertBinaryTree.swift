@@ -24,5 +24,23 @@ import Foundation
 class InvertTreeSolution {
     func invertTree(_ root: TreeNode?) -> TreeNode? {
         
+        if root == nil {
+            return nil
+        }
+        
+        exchangeTree(root)
+        root?.left = invertTree(root?.left)
+        root?.right = invertTree(root?.right)
+        return root
+    }
+    
+    func exchangeTree(_ root: TreeNode?){
+        if root == nil {
+            return 
+        }
+        
+        let right = root?.left
+        root?.left = root?.right
+        root?.right = right
     }
 }

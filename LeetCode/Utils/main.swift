@@ -10,5 +10,5 @@ import Foundation
 
 
 
-var res = containsNearbyDuplicateSolution().containsNearbyDuplicate([1,2,3,4,1], 4)
-print(res)
+var res = InvertTreeSolution().invertTree(createTreeNode([4,2,7,1,3,6,9]))!
+print(printTree(res))
