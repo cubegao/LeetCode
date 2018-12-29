@@ -49,7 +49,7 @@ class IsPalindrome2Solution {
             low = low?.next
         }
         
-        return fast
+        return low
     }
     
     func reverse(_ head: ListNode?) -> ListNode? {

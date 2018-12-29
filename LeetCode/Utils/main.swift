@@ -10,9 +10,7 @@ import Foundation
 
 
 
-for n in 0..<20{
-    let res = IsPowerOfTwoSolution().isPowerOfTwo(n)
-    print("\(n):\(res)")
-}
+let res = IsAnagramSolution().isAnagram("abccbaa", "aabbcc")
+print(res)
 
 
