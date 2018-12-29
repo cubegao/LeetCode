@@ -10,5 +10,9 @@ import Foundation
 
 
 
-var res = InvertTreeSolution().invertTree(createTreeNode([4,2,7,1,3,6,9]))!
-print(printTree(res))
+for n in 0..<20{
+    let res = IsPowerOfTwoSolution().isPowerOfTwo(n)
+    print("\(n):\(res)")
+}
+
+
