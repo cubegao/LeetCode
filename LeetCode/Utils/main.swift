@@ -10,7 +10,7 @@ import Foundation
 
 
 
-let res = IsAnagramSolution().isAnagram("abccbaa", "aabbcc")
+let res = BinaryTreePathsSolution().binaryTreePaths(createTreeNode([1,2,3,nil,5]))
 print(res)
 
 
