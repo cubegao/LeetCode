@@ -10,7 +10,7 @@ import Foundation
 
 
 
-let res = BinaryTreePathsSolution().binaryTreePaths(createTreeNode([1,2,3,nil,5]))
+let res = NumsSameConsecDiffSolution().numsSameConsecDiff(2, 1)
 print(res)
 
 
