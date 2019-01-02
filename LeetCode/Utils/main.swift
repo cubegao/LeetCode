@@ -8,9 +8,3 @@
 
 import Foundation
 
-
-
-let res = NumsSameConsecDiffSolution().numsSameConsecDiff(2, 1)
-print(res)
-
-
