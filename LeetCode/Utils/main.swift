@@ -9,6 +9,5 @@
 import Foundation
 
 
-let res = For04Solution().replace("We are happy")
-print(res)
+For05Solution().printListNode(createListNode([1,2,3,4,5,6,7]))
 

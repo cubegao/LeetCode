@@ -11,6 +11,10 @@ import Foundation
 class For04Solution {
     func replace(_ s: String) -> String {
         
+        guard s.count > 0 else {
+            return s
+        }
+        
         var nullNum = 0
         for c in s {
             if c == " " {
