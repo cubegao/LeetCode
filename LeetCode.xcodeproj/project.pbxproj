@@ -44,6 +44,7 @@
 		A46CCF5F21DCE7DF00D88D8D /* 直接插入排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF5C21DCE7DF00D88D8D /* 直接插入排序.swift */; };
 		A46CCF6021DCE7DF00D88D8D /* 希尔排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF5D21DCE7DF00D88D8D /* 希尔排序.swift */; };
 		A46CCF6321DE376700D88D8D /* 03.二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF6221DE376700D88D8D /* 03.二维数组中的查找.swift */; };
+		A46CCF6521DE43B400D88D8D /* 04.替换空格.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF6421DE43B400D88D8D /* 04.替换空格.swift */; };
 		A46F977B21C67DA70026E1A5 /* 058LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */; };
 		A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977C21C68E230026E1A5 /* 066PlusOne.swift */; };
 		A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */; };
@@ -122,6 +123,7 @@
 		A46CCF5C21DCE7DF00D88D8D /* 直接插入排序.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "直接插入排序.swift"; sourceTree = "<group>"; };
 		A46CCF5D21DCE7DF00D88D8D /* 希尔排序.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "希尔排序.swift"; sourceTree = "<group>"; };
 		A46CCF6221DE376700D88D8D /* 03.二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "03.二维数组中的查找.swift"; sourceTree = "<group>"; };
+		A46CCF6421DE43B400D88D8D /* 04.替换空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04.替换空格.swift"; sourceTree = "<group>"; };
 		A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 058LengthofLastWord.swift; sourceTree = "<group>"; };
 		A46F977C21C68E230026E1A5 /* 066PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 066PlusOne.swift; sourceTree = "<group>"; };
 		A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 067AddBinary.swift; sourceTree = "<group>"; };
@@ -266,6 +268,7 @@
 			isa = PBXGroup;
 			children = (
 				A46CCF6221DE376700D88D8D /* 03.二维数组中的查找.swift */,
+				A46CCF6421DE43B400D88D8D /* 04.替换空格.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -376,6 +379,7 @@
 				A4D5D67F21C8EC9D00B7B7D1 /* 088MergeSortedArray.swift in Sources */,
 				A407E79C21D4D2C100F2B3E5 /* 206ReverseLinkedList.swift in Sources */,
 				A4D5D67721C8C9BE00B7B7D1 /* 069Sqrt(x).swift in Sources */,
+				A46CCF6521DE43B400D88D8D /* 04.替换空格.swift in Sources */,
 				A46F978F21CD33DD0026E1A5 /* 121BestTimetoBuyandSellStock.swift in Sources */,
 				A407E78B21D223B900F2B3E5 /* 172FactorialTrailingZeroes.swift in Sources */,
 				A4827DD521CF5EE900BF627D /* 155MinStack.swift in Sources */,
