@@ -9,5 +9,5 @@
 import Foundation
 
 
-For05Solution().printListNode(createListNode([1,2,3,4,5,6,7]))
-
+let res = For06Solution().rebuildTree1([1,2,4,7,3,5,6,8], [4,7,2,1,5,3,8,6])
+print(printTree(res!))
