@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For09Solution().Fibonacci2(10)
+let res = For10Solution().findOne2(1023)
 print(res)
