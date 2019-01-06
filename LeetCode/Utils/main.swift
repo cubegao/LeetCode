@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For08Solution().findMin([1,1,1,2,0,1,1,1,1,1,1,1])
+let res = For09Solution().Fibonacci2(10)
 print(res)
