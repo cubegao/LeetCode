@@ -50,6 +50,7 @@
 		A46CCF6B21E0FD6C00D88D8D /* 08.旋转数组的最小数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF6A21E0FD6C00D88D8D /* 08.旋转数组的最小数字.swift */; };
 		A46CCF6D21E1FBA000D88D8D /* 09.斐波那契额数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF6C21E1FBA000D88D8D /* 09.斐波那契额数列.swift */; };
 		A46CCF6F21E1FFFC00D88D8D /* 10.二进制中1的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF6E21E1FFFC00D88D8D /* 10.二进制中1的个数.swift */; };
+		A46CCF7121E206D800D88D8D /* 11.数值的整数次方.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF7021E206D800D88D8D /* 11.数值的整数次方.swift */; };
 		A46F977B21C67DA70026E1A5 /* 058LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */; };
 		A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977C21C68E230026E1A5 /* 066PlusOne.swift */; };
 		A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */; };
@@ -134,6 +135,7 @@
 		A46CCF6A21E0FD6C00D88D8D /* 08.旋转数组的最小数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08.旋转数组的最小数字.swift"; sourceTree = "<group>"; };
 		A46CCF6C21E1FBA000D88D8D /* 09.斐波那契额数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "09.斐波那契额数列.swift"; sourceTree = "<group>"; };
 		A46CCF6E21E1FFFC00D88D8D /* 10.二进制中1的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10.二进制中1的个数.swift"; sourceTree = "<group>"; };
+		A46CCF7021E206D800D88D8D /* 11.数值的整数次方.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11.数值的整数次方.swift"; sourceTree = "<group>"; };
 		A46F977A21C67DA70026E1A5 /* 058LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 058LengthofLastWord.swift; sourceTree = "<group>"; };
 		A46F977C21C68E230026E1A5 /* 066PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 066PlusOne.swift; sourceTree = "<group>"; };
 		A46F977E21C7C0B60026E1A5 /* 067AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 067AddBinary.swift; sourceTree = "<group>"; };
@@ -284,6 +286,7 @@
 				A46CCF6A21E0FD6C00D88D8D /* 08.旋转数组的最小数字.swift */,
 				A46CCF6C21E1FBA000D88D8D /* 09.斐波那契额数列.swift */,
 				A46CCF6E21E1FFFC00D88D8D /* 10.二进制中1的个数.swift */,
+				A46CCF7021E206D800D88D8D /* 11.数值的整数次方.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -364,6 +367,7 @@
 				A407E79621D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift in Sources */,
 				A407E79821D4B61600F2B3E5 /* 204CountPrimes.swift in Sources */,
 				A46CCF6321DE376700D88D8D /* 03.二维数组中的查找.swift in Sources */,
+				A46CCF7121E206D800D88D8D /* 11.数值的整数次方.swift in Sources */,
 				A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */,
 				A46CCF5A21DCE7B700D88D8D /* 快速排序.swift in Sources */,
 				A46CCF6F21E1FFFC00D88D8D /* 10.二进制中1的个数.swift in Sources */,

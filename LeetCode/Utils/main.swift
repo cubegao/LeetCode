@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For10Solution().findOne2(1023)
+let res = For11Solution().power(-10, -10)
 print(res)
