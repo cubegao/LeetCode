@@ -8,6 +8,5 @@
 
 import Foundation
 
-
-let res = For11Solution().power(-10, -10)
-print(res)
+For12Solution().printMax(3)
+//print(res)
