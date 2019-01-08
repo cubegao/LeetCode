@@ -8,5 +8,5 @@
 
 import Foundation
 
-For12Solution().printMax(3)
-//print(res)
+let res = For14Solution().ReorderOddEven([1,2,3,4,5,6,7,8,9,10])
+print(res)
