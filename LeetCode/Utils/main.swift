@@ -8,5 +8,5 @@
 
 import Foundation
 
-let res = For14Solution().ReorderOddEven([1,2,3,4,5,6,7,8,9,10])
-print(res)
+let res = For15Solution().reversedK(createListNode([1,2,3,4,5]), 3)
+print(printListNode(res))
