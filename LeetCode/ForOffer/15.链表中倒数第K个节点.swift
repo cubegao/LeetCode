@@ -11,6 +11,10 @@ import Foundation
 class For15Solution {
     func reversedK(_ head: ListNode?,_ k: Int) -> ListNode? {
         
+        guard head != nil && k != 0 else {
+            return nil
+        }
+        
         var i = 0
         var p = head
         var q = head
@@ -24,6 +28,10 @@ class For15Solution {
             }
             
             i += 1
+        }
+        
+        if i < k - 1 {
+            return nil
         }
         
         return q
