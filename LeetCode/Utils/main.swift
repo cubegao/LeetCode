@@ -8,5 +8,5 @@
 
 import Foundation
 
-let res = For18Solution().isSubTreeNode(createTreeNode([8,8,7,9,2,4,7]),createTreeNode([8,9,2]))
-print(res)
+let res = For19Solution().mirrorTreeNode(createTreeNode([1,2,3,4,5,6]))
+print(printTree(res!))
