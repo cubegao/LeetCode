@@ -8,5 +8,5 @@
 
 import Foundation
 
-let res = For17Solution().mergeListNode2(createListNode([1,2,3,4,5]),createListNode([1,3,5,7,9,10]))
-print(printListNode(res))
+let res = For18Solution().isSubTreeNode(createTreeNode([8,8,7,9,2,4,7]),createTreeNode([8,9,2]))
+print(res)
