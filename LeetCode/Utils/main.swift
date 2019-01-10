@@ -8,5 +8,5 @@
 
 import Foundation
 
-let res = For16Solution().reversedListNode2(createListNode([1,2,3,4,5]))
+let res = For17Solution().mergeListNode2(createListNode([1,2,3,4,5]),createListNode([1,3,5,7,9,10]))
 print(printListNode(res))
