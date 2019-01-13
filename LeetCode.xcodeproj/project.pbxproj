@@ -54,6 +54,7 @@
 		A46CCF7321E4C7CC00D88D8D /* 12.打印1到最大的n位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF7221E4C7CC00D88D8D /* 12.打印1到最大的n位数.swift */; };
 		A46CCF7521E4E06300D88D8D /* 13.在0(1)时间删除链表节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF7421E4E06300D88D8D /* 13.在0(1)时间删除链表节点.swift */; };
 		A46CCF7721E4E89A00D88D8D /* 14.调整数组顺序使奇数位于偶数前面.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF7621E4E89A00D88D8D /* 14.调整数组顺序使奇数位于偶数前面.swift */; };
+		A46CCF7921EB7C5C00D88D8D /* 22.栈的压入、弹出序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF7821EB7C5C00D88D8D /* 22.栈的压入、弹出序列.swift */; };
 		A46EB8D221E5C1CF0008A806 /* 15.链表中倒数第K个节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46EB8D121E5C1CF0008A806 /* 15.链表中倒数第K个节点.swift */; };
 		A46EB8D421E5C57F0008A806 /* 16.反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46EB8D321E5C57F0008A806 /* 16.反转链表.swift */; };
 		A46EB8D621E5D6240008A806 /* 17.合并两个排序的链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46EB8D521E5D6240008A806 /* 17.合并两个排序的链表.swift */; };
@@ -149,6 +150,7 @@
 		A46CCF7221E4C7CC00D88D8D /* 12.打印1到最大的n位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12.打印1到最大的n位数.swift"; sourceTree = "<group>"; };
 		A46CCF7421E4E06300D88D8D /* 13.在0(1)时间删除链表节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13.在0(1)时间删除链表节点.swift"; sourceTree = "<group>"; };
 		A46CCF7621E4E89A00D88D8D /* 14.调整数组顺序使奇数位于偶数前面.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14.调整数组顺序使奇数位于偶数前面.swift"; sourceTree = "<group>"; };
+		A46CCF7821EB7C5C00D88D8D /* 22.栈的压入、弹出序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22.栈的压入、弹出序列.swift"; sourceTree = "<group>"; };
 		A46EB8D121E5C1CF0008A806 /* 15.链表中倒数第K个节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15.链表中倒数第K个节点.swift"; sourceTree = "<group>"; };
 		A46EB8D321E5C57F0008A806 /* 16.反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16.反转链表.swift"; sourceTree = "<group>"; };
 		A46EB8D521E5D6240008A806 /* 17.合并两个排序的链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17.合并两个排序的链表.swift"; sourceTree = "<group>"; };
@@ -317,6 +319,7 @@
 				A46EB8D921E738F10008A806 /* 19.二叉树的镜像.swift */,
 				A46EB8DB21E73F7F0008A806 /* 20.顺时针打印矩阵.swift */,
 				A46EB8DD21E883C40008A806 /* 21.包含min函数的栈.swift */,
+				A46CCF7821EB7C5C00D88D8D /* 22.栈的压入、弹出序列.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				A407E78E21D337DA00F2B3E5 /* 189RotateArray.swift in Sources */,
 				A46CCF6721DE4E8400D88D8D /* 05.从尾到头打印链表.swift in Sources */,
 				A407E78521D082D700F2B3E5 /* 168ExcelSheetColumnTitle.swift in Sources */,
+				A46CCF7921EB7C5C00D88D8D /* 22.栈的压入、弹出序列.swift in Sources */,
 				A407E79A21D4C47900F2B3E5 /* 205IsomorphicStrings.swift in Sources */,
 				A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */,
 				A46EB8D621E5D6240008A806 /* 17.合并两个排序的链表.swift in Sources */,

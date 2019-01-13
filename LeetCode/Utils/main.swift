@@ -9,18 +9,9 @@
 import Foundation
 
 
-let res = For21Solution.init()
-res.push(1)
-res.push(2)
-res.push(3)
+let res = For22Solution().isStackPushAndPop([1,2,3,4,5], [4,3,5,1,2])
+print(res)
 
-print(res.getMin())
-print(res.pop())
-print(res.getMin())
-print(res.pop())
-print(res.pop())
-print(res.pop())
-print(res.pop())
 
 
 
