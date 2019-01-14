@@ -9,7 +9,7 @@
 import Foundation
 
 
-let res = For22Solution().isStackPushAndPop([1,2,3,4,5], [4,3,5,1,2])
+let res = For23Solution().printTreeNode(createTreeNode([8,6,10,5,7,9,11]))
 print(res)
 
 
