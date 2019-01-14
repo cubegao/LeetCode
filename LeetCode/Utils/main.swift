@@ -9,7 +9,7 @@
 import Foundation
 
 
-let res = For23Solution().printTreeNode(createTreeNode([8,6,10,5,7,9,11]))
+let res = For24Solution().isPostOrder([5,7,6,9,11,10,8],7)
 print(res)
 
 
