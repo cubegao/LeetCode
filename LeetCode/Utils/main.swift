@@ -9,8 +9,8 @@
 import Foundation
 
 
-let res = For24Solution().isPostOrder([5,7,6,9,11,10,8],7)
-print(res)
+let _ = For25Solution().treeValSum(createTreeNode([10,5,12,4,7]), 22)
+//print(res)
 
 
 
