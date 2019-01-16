@@ -87,6 +87,7 @@
 		A4F22E9921EECF7E00F8A19E /* 二叉树的中序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9821EECF7E00F8A19E /* 二叉树的中序遍历.swift */; };
 		A4F22E9B21EEDC3600F8A19E /* 二叉树的后序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */; };
 		A4F22E9D21EF0EBB00F8A19E /* 26.复杂链表的复制.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9C21EF0EBB00F8A19E /* 26.复杂链表的复制.swift */; };
+		A4F22E9F21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9E21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -190,6 +191,7 @@
 		A4F22E9821EECF7E00F8A19E /* 二叉树的中序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的中序遍历.swift"; sourceTree = "<group>"; };
 		A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的后序遍历.swift"; sourceTree = "<group>"; };
 		A4F22E9C21EF0EBB00F8A19E /* 26.复杂链表的复制.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26.复杂链表的复制.swift"; sourceTree = "<group>"; };
+		A4F22E9E21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27.二叉搜索树与双向链表.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -339,6 +341,7 @@
 				A46EB8E121EC39320008A806 /* 24.二叉搜索树的后序遍历序列.swift */,
 				A46EB8E321EC86740008A806 /* 25.二叉树中和为某一值的路径.swift */,
 				A4F22E9C21EF0EBB00F8A19E /* 26.复杂链表的复制.swift */,
+				A4F22E9E21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -441,6 +444,7 @@
 				A46EB8D821E72A0D0008A806 /* 18.树的子结构.swift in Sources */,
 				A46F977F21C7C0B60026E1A5 /* 067AddBinary.swift in Sources */,
 				A46CCF7321E4C7CC00D88D8D /* 12.打印1到最大的n位数.swift in Sources */,
+				A4F22E9F21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift in Sources */,
 				A4F22E9921EECF7E00F8A19E /* 二叉树的中序遍历.swift in Sources */,
 				A46F978B21CBB2290026E1A5 /* 110BalancedBinaryTree.swift in Sources */,
 				A46CCF2E21D865A900D88D8D /* 956IsUnivalTreeSolution.swift in Sources */,
