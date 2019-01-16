@@ -9,8 +9,8 @@
 import Foundation
 
 
-let _ = For25Solution().treeValSum(createTreeNode([10,5,12,4,7]), 22)
-//print(res)
+var res = MyTreeNodeSolution().postOrderTraversal2(createTreeNode([1,2,3,4,5,6,7]))
+print(res)
 
 
 
