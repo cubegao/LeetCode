@@ -8,30 +8,35 @@
 
 import Foundation
 
+
+//中序遍历，节点互指
 class For27Solution {
-    var leftHead:TreeNode?
-    var rightHead:TreeNode?
-    func convertTwoWayList(rootNode:TreeNode?) -> TreeNode? {
-        convertSubList(rootNode: rootNode)
-        return leftHead
+    
+    var head:TreeNode?
+    var lastNode:TreeNode?
+    
+    func convertTwoWayList(_ root:TreeNode?) -> TreeNode? {
+        convertSubList(root)
+        return head
     }
     
-    func convertSubList(rootNode:TreeNode?) {
-        if rootNode == nil {
+    func convertSubList(_ root:TreeNode?) {
+        if root == nil {
             return
         }
-        convertSubList(rootNode: rootNode?.left)
+        convertSubList(root?.left)
         
-        if rightHead == nil {
-            leftHead = rootNode
-            rightHead = rootNode
+        if lastNode == nil {
+            head = root
+            lastNode = root
         } else {
-            // 右节点和根节点双向指针  注意更新右节点
-            rightHead?.right = rootNode
-            rootNode?.left = rightHead
-            rightHead = rootNode
+            //前一个节点和当前节点（root）互指，然后到下一个
+            root?.left = lastNode
+            lastNode?.right = root
+            lastNode = root
+            
         }
         
-        convertSubList(rootNode: rootNode?.right)
+        convertSubList(root?.right)
     }
 }

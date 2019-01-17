@@ -9,8 +9,8 @@
 import Foundation
 
 
-var res = MyTreeNodeSolution().postOrderTraversal2(createTreeNode([1,2,3,4,5,6,7]))
-print(res)
+var res = For27Solution().convertTwoWayList(rootNode: createTreeNode([10,6,14,4,8,12,16]))
+print(printTree(res!))
 
 
 
