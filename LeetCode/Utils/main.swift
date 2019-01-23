@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For32Solution().oneNums(1000000)
+let res = For33Solution().minNum([3,32,321])
 print(res)
