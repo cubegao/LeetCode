@@ -88,6 +88,7 @@
 		A4F22E9B21EEDC3600F8A19E /* 二叉树的后序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */; };
 		A4F22E9D21EF0EBB00F8A19E /* 26.复杂链表的复制.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9C21EF0EBB00F8A19E /* 26.复杂链表的复制.swift */; };
 		A4F22E9F21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9E21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift */; };
+		A4F22EA121F0263200F8A19E /* 28.字符串的排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22EA021F0263200F8A19E /* 28.字符串的排序.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -192,6 +193,7 @@
 		A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的后序遍历.swift"; sourceTree = "<group>"; };
 		A4F22E9C21EF0EBB00F8A19E /* 26.复杂链表的复制.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26.复杂链表的复制.swift"; sourceTree = "<group>"; };
 		A4F22E9E21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27.二叉搜索树与双向链表.swift"; sourceTree = "<group>"; };
+		A4F22EA021F0263200F8A19E /* 28.字符串的排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28.字符串的排序.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -342,6 +344,7 @@
 				A46EB8E321EC86740008A806 /* 25.二叉树中和为某一值的路径.swift */,
 				A4F22E9C21EF0EBB00F8A19E /* 26.复杂链表的复制.swift */,
 				A4F22E9E21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift */,
+				A4F22EA021F0263200F8A19E /* 28.字符串的排序.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -427,6 +430,7 @@
 				A46CCF5F21DCE7DF00D88D8D /* 直接插入排序.swift in Sources */,
 				A46F977D21C68E230026E1A5 /* 066PlusOne.swift in Sources */,
 				A407E7A021D5F40C00F2B3E5 /* 219ContainsDuplicate2.swift in Sources */,
+				A4F22EA121F0263200F8A19E /* 28.字符串的排序.swift in Sources */,
 				A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */,
 				A4F22E9721EECAC900F8A19E /* 二叉树的前序遍历.swift in Sources */,
 				A407E7A621D7531000F2B3E5 /* 231PowerofTwo.swift in Sources */,

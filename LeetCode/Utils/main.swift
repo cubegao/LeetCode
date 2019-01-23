@@ -9,8 +9,7 @@
 import Foundation
 
 
-var res = For27Solution().convertTwoWayList(rootNode: createTreeNode([10,6,14,4,8,12,16]))
-print(printTree(res!))
+For28Solution().permutation("abcda")
 
 
 
