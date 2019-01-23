@@ -79,6 +79,7 @@
 		A46F979121CD47C20026E1A5 /* 122BestTimetoBuyandSellStock2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F979021CD47C20026E1A5 /* 122BestTimetoBuyandSellStock2.swift */; };
 		A46F979321CE097E0026E1A5 /* 125ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46F979221CE097E0026E1A5 /* 125ValidPalindrome.swift */; };
 		A4827DD521CF5EE900BF627D /* 155MinStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4827DD421CF5EE900BF627D /* 155MinStack.swift */; };
+		A494D85221F812A10072769C /* 29.数组中出现次数超过一半的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D85121F812A10072769C /* 29.数组中出现次数超过一半的数字.swift */; };
 		A4D5D67721C8C9BE00B7B7D1 /* 069Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */; };
 		A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */; };
 		A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */; };
@@ -184,6 +185,7 @@
 		A46F979021CD47C20026E1A5 /* 122BestTimetoBuyandSellStock2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 122BestTimetoBuyandSellStock2.swift; sourceTree = "<group>"; };
 		A46F979221CE097E0026E1A5 /* 125ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 125ValidPalindrome.swift; sourceTree = "<group>"; };
 		A4827DD421CF5EE900BF627D /* 155MinStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 155MinStack.swift; sourceTree = "<group>"; };
+		A494D85121F812A10072769C /* 29.数组中出现次数超过一半的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29.数组中出现次数超过一半的数字.swift"; sourceTree = "<group>"; };
 		A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "069Sqrt(x).swift"; sourceTree = "<group>"; };
 		A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 070ClimbingStairs.swift; sourceTree = "<group>"; };
 		A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 083RemoveDuplicatesfromSortedList.swift; sourceTree = "<group>"; };
@@ -345,6 +347,7 @@
 				A4F22E9C21EF0EBB00F8A19E /* 26.复杂链表的复制.swift */,
 				A4F22E9E21EF24BD00F8A19E /* 27.二叉搜索树与双向链表.swift */,
 				A4F22EA021F0263200F8A19E /* 28.字符串的排序.swift */,
+				A494D85121F812A10072769C /* 29.数组中出现次数超过一半的数字.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -437,6 +440,7 @@
 				A407E77D21CCBF9A00F2B3E5 /* 112PathSum.swift in Sources */,
 				A407E7A221D612BA00F2B3E5 /* 225ImplementStackusingQueues.swift in Sources */,
 				A407E79621D4A05A00F2B3E5 /* 203RemoveLinkedListElements.swift in Sources */,
+				A494D85221F812A10072769C /* 29.数组中出现次数超过一半的数字.swift in Sources */,
 				A407E79821D4B61600F2B3E5 /* 204CountPrimes.swift in Sources */,
 				A46CCF6321DE376700D88D8D /* 03.二维数组中的查找.swift in Sources */,
 				A46CCF7121E206D800D88D8D /* 11.数值的整数次方.swift in Sources */,

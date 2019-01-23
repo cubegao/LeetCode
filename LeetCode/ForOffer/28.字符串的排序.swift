@@ -17,7 +17,7 @@ class For28Solution {
     
     
     // 去重
-    func isSwap(arr:[Character],begin:Int,end:Int) -> Bool {
+    func isSwap(arr: [Character], begin: Int, end: Int) -> Bool {
         var result:Bool = true
         
         for i in begin..<end {
@@ -30,7 +30,7 @@ class For28Solution {
     }
     
     // 字符串特定区间的字符串排列
-    func full_permutation(arr:[Character],begin:Int,end:Int) {
+    func full_permutation(arr: [Character], begin: Int, end: Int) {
         var temp:[Character] = arr
         if begin == end - 1 { // 递归之后输出
             let data:[Character] = Array(arr[0..<end])

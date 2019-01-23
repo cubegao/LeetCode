@@ -9,8 +9,5 @@
 import Foundation
 
 
-For28Solution().permutation("abcda")
-
-
-
-
+let res = For29Solution().moreThanHalfNum([1,2,3,2,2,2,1,3,5,6])
+print(res)
