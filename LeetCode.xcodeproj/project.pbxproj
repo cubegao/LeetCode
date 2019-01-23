@@ -84,6 +84,7 @@
 		A494D85621F846890072769C /* 31.连续子数组的最大和.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D85521F846890072769C /* 31.连续子数组的最大和.swift */; };
 		A494D85821F84F310072769C /* 32.从1到N整数中1出现的次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D85721F84F310072769C /* 32.从1到N整数中1出现的次数.swift */; };
 		A494D85A21F863040072769C /* 33.把数组排成最小的数.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D85921F863040072769C /* 33.把数组排成最小的数.swift */; };
+		A494D85C21F86A310072769C /* 34.丑数.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D85B21F86A310072769C /* 34.丑数.swift */; };
 		A4D5D67721C8C9BE00B7B7D1 /* 069Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */; };
 		A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */; };
 		A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */; };
@@ -194,6 +195,7 @@
 		A494D85521F846890072769C /* 31.连续子数组的最大和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31.连续子数组的最大和.swift"; sourceTree = "<group>"; };
 		A494D85721F84F310072769C /* 32.从1到N整数中1出现的次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32.从1到N整数中1出现的次数.swift"; sourceTree = "<group>"; };
 		A494D85921F863040072769C /* 33.把数组排成最小的数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "33.把数组排成最小的数.swift"; sourceTree = "<group>"; };
+		A494D85B21F86A310072769C /* 34.丑数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34.丑数.swift"; sourceTree = "<group>"; };
 		A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "069Sqrt(x).swift"; sourceTree = "<group>"; };
 		A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 070ClimbingStairs.swift; sourceTree = "<group>"; };
 		A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 083RemoveDuplicatesfromSortedList.swift; sourceTree = "<group>"; };
@@ -360,6 +362,7 @@
 				A494D85521F846890072769C /* 31.连续子数组的最大和.swift */,
 				A494D85721F84F310072769C /* 32.从1到N整数中1出现的次数.swift */,
 				A494D85921F863040072769C /* 33.把数组排成最小的数.swift */,
+				A494D85B21F86A310072769C /* 34.丑数.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -435,6 +438,7 @@
 				A46F977B21C67DA70026E1A5 /* 058LengthofLastWord.swift in Sources */,
 				A418FF092150EC76009C099D /* main.swift in Sources */,
 				A407E7AA21D7595B00F2B3E5 /* 234PalindromeLinkedList.swift in Sources */,
+				A494D85C21F86A310072769C /* 34.丑数.swift in Sources */,
 				A46CCF5E21DCE7DF00D88D8D /* 选择排序.swift in Sources */,
 				A46EB8E421EC86740008A806 /* 25.二叉树中和为某一值的路径.swift in Sources */,
 				A407E79E21D5C6F800F2B3E5 /* 217ContainsDuplicate.swift in Sources */,
