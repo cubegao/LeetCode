@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For33Solution().minNum([3,32,321])
+let res = For34Solution().kUglyNum(10)
 print(res)

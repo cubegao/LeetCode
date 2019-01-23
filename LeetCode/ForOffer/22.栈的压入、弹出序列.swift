@@ -28,7 +28,6 @@ class For22Solution {
                 
                 stack.append(pushStack[pushIndex])
                 pushIndex += 1
-
             }
             
             if stack.last == popFirst {

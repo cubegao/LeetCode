@@ -17,8 +17,32 @@ class For34Solution {
         
         var uglyNums = [Int]()
         
+        uglyNums.append(1)
+        var ugly2 = 0
+        var ugly3 = 0
+        var ugly5 = 0
+        var current = 1
         
         
+        while current < k {
+            
+            let minUgly = min(uglyNums[ugly2]*2, uglyNums[ugly3]*3, uglyNums[ugly5]*5)
+            uglyNums.append(minUgly)
+            
+            while uglyNums[ugly2]*2 <= minUgly {
+                ugly2 += 1
+            }
+            while uglyNums[ugly3]*3 <= minUgly {
+                ugly3 += 1
+            }
+            while uglyNums[ugly5]*5 <= minUgly {
+                ugly5 += 1
+            }
+            
+            current += 1
+        }
+        
+        return uglyNums[current - 1]
     }
     
     
