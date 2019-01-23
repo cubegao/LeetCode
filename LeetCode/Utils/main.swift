@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For30Solution().topK([10,9,8,7,6,5,4,3,2,1], 5)
+let res = For32Solution().oneNums(1000000)
 print(res)
