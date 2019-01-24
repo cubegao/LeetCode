@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For34Solution().kUglyNum(10)
+let res = For35Solution().onlyOneFind("aabbcddeeffjghal")
 print(res)
