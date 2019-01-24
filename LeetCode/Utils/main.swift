@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For35Solution().onlyOneFind("aabbcddeeffjghal")
+let res = For36Solution().inversePairs([7,6,4,5])
 print(res)
