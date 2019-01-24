@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For38Solution().findNumsOfK([1,2,3,3,3,3,3,3,3,3,3,4,5,6,7,8,9,10], 3)
+let res = For40Solution().appearOnce([1,2,3,4,3,2,1])
 print(res)
