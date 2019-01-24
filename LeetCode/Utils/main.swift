@@ -9,5 +9,5 @@
 import Foundation
 
 
-let res = For36Solution().inversePairs([7,6,4,5])
+let res = For38Solution().findNumsOfK([1,2,3,3,3,3,3,3,3,3,3,4,5,6,7,8,9,10], 3)
 print(res)
