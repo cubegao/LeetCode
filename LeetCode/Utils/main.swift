@@ -8,6 +8,6 @@
 
 import Foundation
 
-For41Solution().sumsIsKSqeuence(15)
-let res = For40Solution().appearOnce([1,2,3,4,3,2,1])
+
+let res = For42Solution().leftRotateString("abcdefg", 2)
 print(res)

@@ -92,6 +92,7 @@
 		A494D86621F997840072769C /* 39.二叉树的深度.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D86521F997840072769C /* 39.二叉树的深度.swift */; };
 		A494D86821F998BC0072769C /* 40.数组中只出现一次的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D86721F998BC0072769C /* 40.数组中只出现一次的数字.swift */; };
 		A494D86A21F99B4B0072769C /* 41.和为S的两个数字VS和为S的连续正数序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D86921F99B4B0072769C /* 41.和为S的两个数字VS和为S的连续正数序列.swift */; };
+		A494D86C21F9A1EC0072769C /* 42.翻转单词顺序VS左旋转字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = A494D86B21F9A1EB0072769C /* 42.翻转单词顺序VS左旋转字符串.swift */; };
 		A4D5D67721C8C9BE00B7B7D1 /* 069Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */; };
 		A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */; };
 		A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */; };
@@ -210,6 +211,7 @@
 		A494D86521F997840072769C /* 39.二叉树的深度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39.二叉树的深度.swift"; sourceTree = "<group>"; };
 		A494D86721F998BC0072769C /* 40.数组中只出现一次的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "40.数组中只出现一次的数字.swift"; sourceTree = "<group>"; };
 		A494D86921F99B4B0072769C /* 41.和为S的两个数字VS和为S的连续正数序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41.和为S的两个数字VS和为S的连续正数序列.swift"; sourceTree = "<group>"; };
+		A494D86B21F9A1EB0072769C /* 42.翻转单词顺序VS左旋转字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42.翻转单词顺序VS左旋转字符串.swift"; sourceTree = "<group>"; };
 		A4D5D67621C8C9BE00B7B7D1 /* 069Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "069Sqrt(x).swift"; sourceTree = "<group>"; };
 		A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 070ClimbingStairs.swift; sourceTree = "<group>"; };
 		A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 083RemoveDuplicatesfromSortedList.swift; sourceTree = "<group>"; };
@@ -384,6 +386,7 @@
 				A494D86521F997840072769C /* 39.二叉树的深度.swift */,
 				A494D86721F998BC0072769C /* 40.数组中只出现一次的数字.swift */,
 				A494D86921F99B4B0072769C /* 41.和为S的两个数字VS和为S的连续正数序列.swift */,
+				A494D86B21F9A1EB0072769C /* 42.翻转单词顺序VS左旋转字符串.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -532,6 +535,7 @@
 				A46CCF7921EB7C5C00D88D8D /* 22.栈的压入、弹出序列.swift in Sources */,
 				A407E79A21D4C47900F2B3E5 /* 205IsomorphicStrings.swift in Sources */,
 				A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */,
+				A494D86C21F9A1EC0072769C /* 42.翻转单词顺序VS左旋转字符串.swift in Sources */,
 				A46EB8D621E5D6240008A806 /* 17.合并两个排序的链表.swift in Sources */,
 				A46CCF6021DCE7DF00D88D8D /* 希尔排序.swift in Sources */,
 				A4D5D67F21C8EC9D00B7B7D1 /* 088MergeSortedArray.swift in Sources */,
