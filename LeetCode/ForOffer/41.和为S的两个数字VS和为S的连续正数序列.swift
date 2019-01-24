@@ -28,4 +28,51 @@ class For41Solution {
         
         print("no result!")
     }
+    
+    
+    func sumsIsKSqeuence(_ k: Int) {
+        
+        if k < 3 {
+            return
+        }
+        
+        var small = 1
+        var big = 2
+        let mid = (1 + k)/2
+        var sums = small + big
+        
+        
+        //最少要2个数
+        while small < mid {
+            
+            if sums == k {
+                forKPrint(small, big)
+            }
+            
+            while small < mid && sums < k {
+                big += 1
+                sums += big
+                
+                if sums == k {
+                    forKPrint(small, big)
+                }
+            }
+            
+            sums -= small
+            small += 1
+        }
+        
+        print("is all!")
+        
+    }
+    
+    func forKPrint(_ small: Int,_ big: Int) {
+        
+        for i in small..<big+1 {
+            print(i)
+        }
+        
+        print("once!")
+
+    }
 }

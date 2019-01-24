@@ -8,6 +8,6 @@
 
 import Foundation
 
-For41Solution().sumIsK([1,2,4,7,11,15], 30)
+For41Solution().sumsIsKSqeuence(15)
 let res = For40Solution().appearOnce([1,2,3,4,3,2,1])
 print(res)
