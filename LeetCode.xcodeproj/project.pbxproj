@@ -32,6 +32,7 @@
 		A418FF082150EC76009C099D /* tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF062150EC76009C099D /* tools.swift */; };
 		A418FF092150EC76009C099D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF072150EC76009C099D /* main.swift */; };
 		A418FF0B2150ED8F009C099D /* 053MaximumSubarray .swift in Sources */ = {isa = PBXBuildFile; fileRef = A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */; };
+		A433BB3321FD4F790007EE6A /* 984. 不含 AAA 或 BBB 的字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = A433BB3221FD4F790007EE6A /* 984. 不含 AAA 或 BBB 的字符串.swift */; };
 		A468CE5121CE2B5A0056D88D /* 136SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = A468CE5021CE2B5A0056D88D /* 136SingleNumber.swift */; };
 		A46CCF2A21D7A01D00D88D8D /* 242ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF2921D7A01D00D88D8D /* 242ValidAnagram.swift */; };
 		A46CCF2C21D7A3DD00D88D8D /* 257BinaryTreePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46CCF2B21D7A3DD00D88D8D /* 257BinaryTreePaths.swift */; };
@@ -148,6 +149,7 @@
 		A418FF062150EC76009C099D /* tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tools.swift; sourceTree = "<group>"; };
 		A418FF072150EC76009C099D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A418FF0A2150ED8F009C099D /* 053MaximumSubarray .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "053MaximumSubarray .swift"; sourceTree = "<group>"; };
+		A433BB3221FD4F790007EE6A /* 984. 不含 AAA 或 BBB 的字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "984. 不含 AAA 或 BBB 的字符串.swift"; sourceTree = "<group>"; };
 		A468CE5021CE2B5A0056D88D /* 136SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 136SingleNumber.swift; sourceTree = "<group>"; };
 		A46CCF2521D260AD00D88D8D /* 175CombineTwoTables.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 175CombineTwoTables.pch; sourceTree = "<group>"; };
 		A46CCF2621D2614B00D88D8D /* 176SecondHighestSalary.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 176SecondHighestSalary.pch; sourceTree = "<group>"; };
@@ -320,6 +322,7 @@
 				A46CCF2921D7A01D00D88D8D /* 242ValidAnagram.swift */,
 				A46CCF2B21D7A3DD00D88D8D /* 257BinaryTreePaths.swift */,
 				A46CCF2D21D865A900D88D8D /* 956IsUnivalTreeSolution.swift */,
+				A433BB3221FD4F790007EE6A /* 984. 不含 AAA 或 BBB 的字符串.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -537,6 +540,7 @@
 				A407E78521D082D700F2B3E5 /* 168ExcelSheetColumnTitle.swift in Sources */,
 				A4F22E9D21EF0EBB00F8A19E /* 26.复杂链表的复制.swift in Sources */,
 				A46CCF7921EB7C5C00D88D8D /* 22.栈的压入、弹出序列.swift in Sources */,
+				A433BB3321FD4F790007EE6A /* 984. 不含 AAA 或 BBB 的字符串.swift in Sources */,
 				A407E79A21D4C47900F2B3E5 /* 205IsomorphicStrings.swift in Sources */,
 				A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */,
 				A494D86C21F9A1EC0072769C /* 42.翻转单词顺序VS左旋转字符串.swift in Sources */,

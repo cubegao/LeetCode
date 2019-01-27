@@ -9,5 +9,9 @@
 import Foundation
 
 
-let res = For42Solution().leftRotateString("abcdefg", 2)
+let res = StrWithout3a3bSolution().strWithout3a3b(3, 3)
 print(res)
+
+
+
+
