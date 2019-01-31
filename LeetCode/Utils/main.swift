@@ -9,8 +9,8 @@
 import Foundation
 
 
-let res = StrWithout3a3bSolution().strWithout3a3b(3, 3)
-print(res)
+let _ = For43Solution().diceProbility(diceCount: 3)
+//print(res)
 
 
 
