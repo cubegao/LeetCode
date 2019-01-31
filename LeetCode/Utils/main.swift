@@ -9,8 +9,8 @@
 import Foundation
 
 
-let _ = For43Solution().diceProbility(diceCount: 3)
-//print(res)
+let res = For44Solution().puke([1,4,6,0,0])
+print(res)
 
 
 

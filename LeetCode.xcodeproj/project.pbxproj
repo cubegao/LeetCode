@@ -100,6 +100,7 @@
 		A4D5D67B21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */; };
 		A4D5D67D21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */; };
 		A4D5D67F21C8EC9D00B7B7D1 /* 088MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D5D67E21C8EC9D00B7B7D1 /* 088MergeSortedArray.swift */; };
+		A4E6C5872202B7C80003A2A3 /* 44.扑克牌的顺子.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4E6C5862202B7C80003A2A3 /* 44.扑克牌的顺子.swift */; };
 		A4F22E9721EECAC900F8A19E /* 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9621EECAC900F8A19E /* 二叉树的前序遍历.swift */; };
 		A4F22E9921EECF7E00F8A19E /* 二叉树的中序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9821EECF7E00F8A19E /* 二叉树的中序遍历.swift */; };
 		A4F22E9B21EEDC3600F8A19E /* 二叉树的后序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */; };
@@ -222,6 +223,7 @@
 		A4D5D67A21C8D4DF00B7B7D1 /* 070ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 070ClimbingStairs.swift; sourceTree = "<group>"; };
 		A4D5D67C21C8E1D600B7B7D1 /* 083RemoveDuplicatesfromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 083RemoveDuplicatesfromSortedList.swift; sourceTree = "<group>"; };
 		A4D5D67E21C8EC9D00B7B7D1 /* 088MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 088MergeSortedArray.swift; sourceTree = "<group>"; };
+		A4E6C5862202B7C80003A2A3 /* 44.扑克牌的顺子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "44.扑克牌的顺子.swift"; sourceTree = "<group>"; };
 		A4F22E9621EECAC900F8A19E /* 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		A4F22E9821EECF7E00F8A19E /* 二叉树的中序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的中序遍历.swift"; sourceTree = "<group>"; };
 		A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的后序遍历.swift"; sourceTree = "<group>"; };
@@ -396,6 +398,7 @@
 				A494D86921F99B4B0072769C /* 41.和为S的两个数字VS和为S的连续正数序列.swift */,
 				A494D86B21F9A1EB0072769C /* 42.翻转单词顺序VS左旋转字符串.swift */,
 				A494D86D21F9B4580072769C /* 43.n个骰子的点数.swift */,
+				A4E6C5862202B7C80003A2A3 /* 44.扑克牌的顺子.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -525,6 +528,7 @@
 				A468CE5121CE2B5A0056D88D /* 136SingleNumber.swift in Sources */,
 				A494D85E21F9598F0072769C /* 35.第一个只出现一次的字符.swift in Sources */,
 				A46CCF7721E4E89A00D88D8D /* 14.调整数组顺序使奇数位于偶数前面.swift in Sources */,
+				A4E6C5872202B7C80003A2A3 /* 44.扑克牌的顺子.swift in Sources */,
 				A494D85821F84F310072769C /* 32.从1到N整数中1出现的次数.swift in Sources */,
 				A46EB8DE21E883C40008A806 /* 21.包含min函数的栈.swift in Sources */,
 				A407E7A421D616F900F2B3E5 /* 226InvertBinaryTree.swift in Sources */,
