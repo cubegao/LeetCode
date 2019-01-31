@@ -9,7 +9,7 @@
 import Foundation
 
 
-let res = For46Solution().addSum(5)
+let res = For47Solution().addSum(5, 17)
 print(res)
 
 
