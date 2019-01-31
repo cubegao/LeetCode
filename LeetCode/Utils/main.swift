@@ -9,7 +9,7 @@
 import Foundation
 
 
-let res = For47Solution().addSum(5, 17)
+let res = For49Solution().myAtoi("-9223372036854775809")
 print(res)
 
 

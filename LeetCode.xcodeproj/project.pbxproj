@@ -104,6 +104,7 @@
 		A4E6C5892202C2140003A2A3 /* 45.圆圈中最后剩下的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4E6C5882202C2140003A2A3 /* 45.圆圈中最后剩下的数字.swift */; };
 		A4E6C58B2202C9E50003A2A3 /* 46.求1+2+...+n.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4E6C58A2202C9E50003A2A3 /* 46.求1+2+...+n.swift */; };
 		A4E6C58D2202D2B50003A2A3 /* 47.不用加减乘除做加法.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4E6C58C2202D2B50003A2A3 /* 47.不用加减乘除做加法.swift */; };
+		A4E6C58F2202DDC80003A2A3 /* 49.把字符串转换成整数.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4E6C58E2202DDC80003A2A3 /* 49.把字符串转换成整数.swift */; };
 		A4F22E9721EECAC900F8A19E /* 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9621EECAC900F8A19E /* 二叉树的前序遍历.swift */; };
 		A4F22E9921EECF7E00F8A19E /* 二叉树的中序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9821EECF7E00F8A19E /* 二叉树的中序遍历.swift */; };
 		A4F22E9B21EEDC3600F8A19E /* 二叉树的后序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */; };
@@ -230,6 +231,7 @@
 		A4E6C5882202C2140003A2A3 /* 45.圆圈中最后剩下的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "45.圆圈中最后剩下的数字.swift"; sourceTree = "<group>"; };
 		A4E6C58A2202C9E50003A2A3 /* 46.求1+2+...+n.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46.求1+2+...+n.swift"; sourceTree = "<group>"; };
 		A4E6C58C2202D2B50003A2A3 /* 47.不用加减乘除做加法.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "47.不用加减乘除做加法.swift"; sourceTree = "<group>"; };
+		A4E6C58E2202DDC80003A2A3 /* 49.把字符串转换成整数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49.把字符串转换成整数.swift"; sourceTree = "<group>"; };
 		A4F22E9621EECAC900F8A19E /* 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		A4F22E9821EECF7E00F8A19E /* 二叉树的中序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的中序遍历.swift"; sourceTree = "<group>"; };
 		A4F22E9A21EEDC3600F8A19E /* 二叉树的后序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的后序遍历.swift"; sourceTree = "<group>"; };
@@ -408,6 +410,7 @@
 				A4E6C5882202C2140003A2A3 /* 45.圆圈中最后剩下的数字.swift */,
 				A4E6C58A2202C9E50003A2A3 /* 46.求1+2+...+n.swift */,
 				A4E6C58C2202D2B50003A2A3 /* 47.不用加减乘除做加法.swift */,
+				A4E6C58E2202DDC80003A2A3 /* 49.把字符串转换成整数.swift */,
 			);
 			path = ForOffer;
 			sourceTree = "<group>";
@@ -533,6 +536,7 @@
 				A46EB8DC21E73F7F0008A806 /* 20.顺时针打印矩阵.swift in Sources */,
 				A407E78721D0ABF400F2B3E5 /* 169MajorityElement.swift in Sources */,
 				A46EB8E221EC39320008A806 /* 24.二叉搜索树的后序遍历序列.swift in Sources */,
+				A4E6C58F2202DDC80003A2A3 /* 49.把字符串转换成整数.swift in Sources */,
 				A46CCF5621DCE76100D88D8D /* 堆排序.swift in Sources */,
 				A46CCF5421DCE70B00D88D8D /* 冒泡排序.swift in Sources */,
 				A46F979121CD47C20026E1A5 /* 122BestTimetoBuyandSellStock2.swift in Sources */,
