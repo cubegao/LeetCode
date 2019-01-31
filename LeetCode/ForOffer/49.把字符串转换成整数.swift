@@ -25,6 +25,12 @@ class For49Solution {
             sign = -1
         }else if arr[0] == "+" {
             begin += 1
+        }else if arr[0] < "0" || arr[0] > "9" {
+            return 0
+        }
+        
+        if begin > count {
+            return 0
         }
         
         var sum = 0
@@ -34,14 +40,13 @@ class For49Solution {
                 return 0
             }
             
-            if sign == 1 && Int.max - sum*10 < Int(String(arr[i]))!*sign {
+            if sign == 1 && (Int.max - Int(String(arr[i]))!*sign)/10 < sum  {
                 return 0
             }
             
-            if sign == -1 && Int.min - sum*10 > Int(String(arr[i]))!*sign {
+            if sign == -1 && (Int.min - Int(String(arr[i]))!*sign)/10 > sum {
                 return 0
             }
-            print(Int.min)
             sum = sum * 10 + Int(String(arr[i]))!*sign
         }
         

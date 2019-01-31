@@ -9,7 +9,7 @@
 import Foundation
 
 
-let res = For49Solution().myAtoi("-9223372036854775809")
+let res = For49Solution().myAtoi("20000000000000000000")
 print(res)
 
 
