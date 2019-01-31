@@ -9,7 +9,7 @@
 import Foundation
 
 
-let res = For44Solution().puke([1,4,6,0,0])
+let res = For45Solution().deleteNum(10, 8)
 print(res)
 
 
