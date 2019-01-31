@@ -9,7 +9,7 @@
 import Foundation
 
 
-let res = For45Solution().deleteNum(10, 8)
+let res = For46Solution().addSum(5)
 print(res)
 
 
